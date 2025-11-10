@@ -22,7 +22,6 @@ import ComputerIcon from '@mui/icons-material/Computer';
 import EngineeringIcon from '@mui/icons-material/Engineering';
 import ArchitectureIcon from '@mui/icons-material/Architecture';
 import BiotechIcon from '@mui/icons-material/Biotech';
-import ElectricalServicesIcon from '@mui/icons-material/ElectricalServices';
 import CheckCircleIcon from '@mui/icons-material/CheckCircle';
 
 function AcademicsPage() {

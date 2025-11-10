@@ -79,7 +79,7 @@ function HomePage() {
       clearInterval(slideInterval);
       clearInterval(newsInterval);
     };
-  }, []);
+  }, [news.length, slides.length]);
 
   const nextSlide = () => {
     setCurrentSlide((prev) => (prev + 1) % slides.length);

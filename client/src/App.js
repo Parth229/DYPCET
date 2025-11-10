@@ -2,9 +2,7 @@
 import React from 'react';
 import './App.css';
 import { Routes, Route } from 'react-router-dom';
-import { Box, CssBaseline, ThemeProvider, createTheme } from '@mui/material';
-import Navbar from './components/Navbar';
-import Footer from './components/Footer';
+import { Box, ThemeProvider, createTheme } from '@mui/material';
 import HomePage from './pages/HomePage';
 import AcademicsPage from './pages/AcademicsPage';
 import FacultyPage from './pages/FacultyPage';
